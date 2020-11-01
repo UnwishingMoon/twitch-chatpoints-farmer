@@ -6,6 +6,7 @@ As of 28 October 2020 the use of this program could lead you to punishments on y
 
 From Twitch Community Guidelines: https://www.twitch.tv/p/legal/community-guidelines/
 > Any content or activity that disrupts, interrupts, harms, or otherwise violates the integrity of Twitch services or another user's experience or devices is prohibited. Such activity includes:
+>- ...
 >- Cheating a Twitch rewards system (such as the Drops or **channel points systems**)
 
 ## How to run
